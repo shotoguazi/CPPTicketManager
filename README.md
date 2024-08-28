@@ -2,9 +2,6 @@
 
 ![GitHub License](https://img.shields.io/github/license/shotoguazi/CPPticketManager)
 
-
-CPP抢票、CP30抢票、漫展抢票、无差别同人站、CP展、CPGZ
-
 > [!NOTE]
 > 本软件禁止作用于任何商业用途！
 > 使用本软件所产生的后果请自行承担！
