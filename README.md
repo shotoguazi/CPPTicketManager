@@ -22,3 +22,9 @@ CPP抢票、CP30抢票、漫展抢票、无差别同人站、CP展、CPGZ
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ -r requirements.txt
 ```
 随后运行CPPTicketManager 0.1.py文件，即可正常使用
+
+## 兼容性
+
+经过cpgz06的测试，本软件可直接部署在Windows和Linux环境下，由于不同Linux发行版配置不同，请自行进行配置
+
+软件使用Python3.12编写
